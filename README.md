@@ -1,12 +1,15 @@
-hello there!
+Profile instruction has updated on **03/05/2024**;
 
-> **Note**
+## Socials
+
+the social links has listed in the secured GitHub Pages below link:
+
+[noteswiper.github.io/socials.md](https://noteswiper.github.io/socials)
+
+Latest version of social lists has at **Not Secured Self-hosted** website here, access from below link:
+
+[files.note-swiper.f5.si/links/](http://files.note-swiper.f5.si/links/) 
+> [!IMPORTANT]
+> The server has hosted via the Dynamic DNS, it would be shown the warning or restricted.
 >
-> we didn't made the profile picture icon. 
-> it was an letter F from Mike Salcedo's Popular episode `Alphabet Lore`, `Alphabet Lore: epilogue`.
-
-~~My status:~~
-~~1. I'm NoteSwiper~~
-~~1. I have some [social account](https://noteswiper.github.io/socials)~~
-
-See [This page for details](https://noteswiper.github.io/info/noteswiper/).
+> also this website **Supports** $${\color{green}HTTPS}$$, but the Certificate data has generated via mkcert, it will be show as Unverified certificate.
