@@ -1,5 +1,9 @@
 Profile instruction has updated on **03/05/2024**;
 
+## anyways
+
+some of my repositories are didn't completed yeah.
+
 ## Socials
 
 the social links has listed in the secured GitHub Pages below link:
@@ -8,7 +12,7 @@ the social links has listed in the secured GitHub Pages below link:
 
 Latest version of social lists has at **Not Secured Self-hosted** website here, access from below link:
 
-[files.note-swiper.f5.si/links/](http://files.note-swiper.f5.si/links/) 
+[noteswiper.mydns.jp/social-links/](https://noteswiper.mydns.jp/social-links/) 
 > [!IMPORTANT]
 > The server has hosted via the Dynamic DNS, it would be shown the warning or restricted.
 >
