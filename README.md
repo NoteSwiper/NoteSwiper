@@ -1,14 +1,16 @@
-Profile instruction has updated on **03/05/2024**;
+Profile instruction has updated on **02/18/2025**;
 
 ## anyways
 
-some of my repositories are didn't completed yeah.
+some of my repositories are **didn't completed**. yeah.
 
 ## Socials
 
 the social links has listed in the secured GitHub Pages below link:
 
 [noteswiper.github.io/socials.md](https://noteswiper.github.io/socials)
+
+UPDATE: old one are been moved to another ddns.
 
 Latest version of social lists has at **Not Secured Self-hosted** website here, access from below link:
 
